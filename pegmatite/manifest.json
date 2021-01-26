@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Pegmatite",
+  "name": "Pegmatite for local",
   "version": "1.6.0",
   "description": "Shows graphs and diagrams rendered by PlantUML.",
   "permissions": ["storage", "https://*/*", "tabs"],
@@ -22,7 +22,8 @@
         "https://gitpitch.com/*",
         "https://gitlab.com/*",
         "https://bitbucket.org/*",
-        "https://*.backlog.jp/wiki/*"
+        "https://*.backlog.jp/wiki/*",
+        "http://*/*"
       ]
     }
   ]
